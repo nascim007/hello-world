@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps by steps for GitHub
 
 That´s another change
+
+I´ve been working in Angola since 2015
